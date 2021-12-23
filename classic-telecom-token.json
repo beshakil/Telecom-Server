@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "classic-telecom",
+  "private_key_id": "fe2e6d0aaa02e543f376f10a1c29380e9cc75c33",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCuPPYsOXHyLr/Y\nL7y85oER03QYshuUpdeZnDJaUk8Jic8eBz+WZtqQd72gOtpqYkjSx69wsZvOHE/Z\nNYO6neGwam2rxRnJh0GwkyRnwdWVcrXRB/wKABPMrL9gTkrVZIC7kAtNdt7ER1pM\nioE1SzlTGHYb4PVGQFuwk1fbZ1aiIpgo3SJdhTehxSUuwdlW+0enk+IoIUvBndHb\nRf1Qkxq1hzPYwRuFRuQWFbrdD9YoOkLkmUL1q2ICfvPlBcZnDppwXNicSoOx5E6N\nSoFERYn63my+p5JCi+Xd0FmOCef7ZPGL78knwGsymE1HBjR5aMwhLJ2yqXeoSMdK\no/yhBkGjAgMBAAECggEASICAdSWQNxTh6mzuzfHimk7RW+ddF60sujQnNbNTRSZN\ng3LDsGtrHjtdMhvbP/JW2DKUW8HkEc9xIHKmtlQ1EeovaY7yLIw2Nun7d5tOK0pY\nwrreUzD2DDCDz+i0NfiEoseNFHZWuvjv57KokksTdvLSTsZ8eXeVT7P4Fol5IKyx\nm15nGh7I46bEGB99sb/eRFg4v2LKHnKte5UtLcvjyXubOubAcCgTwb4y07AHp+Or\nBhQHagNJ4asGt4/cjJ3zvkSo5vl7nYY5fbDQrBnasNXxc9v98mzx1JRhzQuWUSZz\nrNeXLQVvT3vUEnIqwqieUKfSauHQ3Az1XRFI/yyJJQKBgQDbiOQVVUD7E/wkp11r\nUidRd7nIFTYvp4rGsQl6OkaOvDL6QN94S8a4gwJAtY9p70cOsRqLwpaNVr3MnnhR\n+5NlNBVCmSAkpA8Hxj1tyzjH6EYtQLj0TVx9rQ3aCvpDAHi5tOhMDnGRj+afyyMV\nMAfX93gVab9lhNWy+Jw+NsUTrQKBgQDLLfUrYuc9ZjmduPUH4tJH+kX2bJKefINO\n/wKscsm90olT4y2ckd1LW3vvZ4etDrocQGIovEbcsC1GNgep/UvYT9gNYusc/Wp+\niPWwRZ2ns5jqoG5ykKuWFKlC13buVNLa2/9V5CVb+K5/310TveHyXNZXLCwqXmKy\n+PX8o9nUjwKBgQDCIGqP8rNjUmjEgLq7DAp4n8ZIh3lC6oRs7l/TFXUPApyRbowt\nc9RllHOJhQMsScor07AFpiw7D1kGd5st46iS9VtXaNBjli80ULhBPlMXcu2bVoA2\nh7Ih78Uv6kUiumgGz1Ia7yq97OGiq556Pd6xusMVLE1zF+NgPzbqTMQ4gQKBgQC4\nzSdW/BFplkZHgAhW0OcEks350k0VnBjuzCHJamq2nf1McLB23XFTbnVujlMog+Gh\neqoNdRpa9l9nohMceYf3yr+vhU5mQtUPHFGjr94yv7cRiTSMPavjyQ0e/81r/3j9\nmeZHYEjeu3U0V5xYLXiKsgg+p63QJ6NMOAe9b+bcXwKBgCHsN+lXjABX0eFaFobx\nDqD2A8zUDx9IfkHztZ0yym/jDiT2nO30uDma38XGwBowOBdY6ipwBTDNCkkPp63e\nW5zQg9Ej2JmcVnAKCnBTfxqePl/fr/Tto8L5E4wbyakr1NtuCsrP/WJMYqTooFM4\nOcEt5/fnhjxDXB8hHQiu6E1y\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-whgft@classic-telecom.iam.gserviceaccount.com",
+  "client_id": "115131351437803012606",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-whgft%40classic-telecom.iam.gserviceaccount.com"
+}
